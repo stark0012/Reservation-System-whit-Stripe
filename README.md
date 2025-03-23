@@ -24,7 +24,7 @@ Para ejecutar este proyecto necesitarás lo siguiente:
 ### 1️⃣ Clona el repositorio
 Primero, clona el repositorio en tu máquina local:
 
-git clone https://github.com/tu_usuario/sistema-de-reservas.git
+git clone https://github.com/stark0012/Reservation-System-whit-Stripe.git
 
 2️⃣ Configura tu entorno de servidor
 
